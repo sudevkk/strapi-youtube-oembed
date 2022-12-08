@@ -1,6 +1,6 @@
 {
   "name": "strapi-youtube-oembed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strapi plugin to embed Youtube Video",
   "strapi": {
     "name": "youtube-embed",
@@ -8,10 +8,10 @@
     "kind": "plugin"
   },
   "dependencies": {
-    "react":"17.0.1",
-    "react-dom":"17.0.1",
-    "@strapi/strapi":"4.5.2",
-    "@strapi/icons":"1.4.0"
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "@strapi/strapi": "4.5.2",
+    "@strapi/icons": "1.4.0"
   },
   "devDependencies": {
     "typescript": "4.6.3"
