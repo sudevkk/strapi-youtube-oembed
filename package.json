@@ -1,6 +1,6 @@
 {
   "name": "strapi-youtube-oembed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Strapi plugin to embed Youtube Video",
   "strapi": {
     "name": "youtube-embed",
