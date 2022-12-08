@@ -1,0 +1,37 @@
+{
+  "name": "strapi-youtube-oembed",
+  "version": "1.0.0",
+  "description": "Strapi plugin to embed Youtube Video",
+  "strapi": {
+    "name": "youtube-embed",
+    "description": "plugin to embed Youtube Video",
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "react":"17.0.1",
+    "react-dom":"17.0.1",
+    "@strapi/strapi":"4.5.2",
+    "@strapi/icons":"1.4.0"
+  },
+  "devDependencies": {
+    "typescript": "4.6.3"
+  },
+  "author": {
+    "name": "Sudev",
+    "url": "https://github.com/sudevkk"
+  },
+  "maintainers": [
+    {
+      "name": "Sudev"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "develop": "tsc -w",
+    "build": "tsc"
+  },
+  "license": "MIT"
+}

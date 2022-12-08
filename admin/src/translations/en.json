@@ -1,0 +1,6 @@
+{
+    "modal.import.title":"Import Video",
+    "modal.import.input.label": "Video URL",
+    "modal.import.input.description": "Video URL to be embeded",
+    "modal.import.button.import": "Import"
+}
